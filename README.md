@@ -6,5 +6,5 @@ jika anda merusak website atau melakukan tindakan ilegal
 menggunakan alat kami, kami tidak pertanggung jawab
 bujaklah dalam tindakan. semoga harimu menyenangkan salam white hat indonesia.
 
-#password shell backdoor
+# Password shell backdoor
 stellacantik
