@@ -1,6 +1,10 @@
 # shell-backdoor
+
+# Peringatan
 kami membuat alat ini hanya untuk tujuan pendidikan
 jika anda merusak website atau melakukan tindakan ilegal 
 menggunakan alat kami, kami tidak pertanggung jawab
-bujaklah dalam tindakan. semoga lingkungan cyber kita
-terus aman, tentram dan sejahtera.
+bujaklah dalam tindakan. semoga harimu menyenangkan salam white hat indonesia.
+
+#password shell backdoor
+stellacantik
